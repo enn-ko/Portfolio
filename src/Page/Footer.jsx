@@ -4,7 +4,7 @@ import logo from '../../Img/Home/logo.svg'
 
 const Footer = () => {
   return (
-    <footer className='pt-32 pb-20 bg-dark'>
+    <footer className='pt-32 pb-20 bg-black'>
       <div className='container'>
         <div className="flex justify-center items-center text-sm font-Inter flex-col">
           <Link to={'/'}>
